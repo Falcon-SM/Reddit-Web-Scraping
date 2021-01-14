@@ -24,3 +24,5 @@ simply enter the subreddit's name and look at the results
 
 ### Any optional sections
 nope
+
+i think you did a good job on your rep.lt :) hope you have a good day
