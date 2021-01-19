@@ -26,3 +26,10 @@ simply enter the subreddit's name and look at the results
 nope
 
 i think you did a good job on your rep.lt :) hope you have a good day
+
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
