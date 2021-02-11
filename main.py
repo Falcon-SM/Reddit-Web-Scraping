@@ -7,9 +7,11 @@ replit.clear()
 
 cr.init(autoreset=True)
 
+name = input("hello user, what is your name?")
 
 
-SubReddit = input("Which subreddit would you like to see popular posts for? r/").lower()
+
+SubReddit = input(f"Hello, {name} which subreddit would you like to see popular posts for? r/").lower()
 
 
 
